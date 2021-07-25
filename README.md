@@ -10,20 +10,18 @@
 
 ## `Overview of the school district analysis`
 
-The purpose of the school district analysis was to analyze 
-•	A high-level snapshot of the district's key metrics, presented in a table format
-•	An overview of the key metrics for each school, presented in a table format
-•	Tables presenting each of the following metrics:
-o	Top 5 and bottom 5 performing schools, based on the overall passing rate
-o	The average math score received by students in each grade level at each school
-o	The average reading score received by students in each grade level at each school
-o	School performance based on the budget per student
-o	School performance based on the school size 
-o	School performance based on the type of school
+The purpose for the analysis of 15 school districts was to delivery: 
+1. An overview of the district's key metrics
+2. An overview of the key metrics for each school
+3. Tables presenting each of the following metrics:
+  - Top 5 and bottom 5 performing schools, based on the overall passing rate
+  - The average math score received by students in each grade level at each school
+  - The average reading score received by students in each grade level at each school
+  - School performance based on the budget per student
+  - School performance based on the school size 
+  - School performance based on the type of school.
 
- For 15 school districts the analysis provides the performance by grade, school type, budget, and size. 
- 
- Also, because of some not accurate data from Thomas High School's 9th grade the analysis was repeated again with changed data NaNs for 9th graders at Thomas High School. In additional, the impact of changed data is explained in the report.
+ Additionally, because of some not accurate data from Thomas High School's 9th grade the analysis was repeated again with changed data NaNs for 9th graders at Thomas High School. So, the impact of changed data is explained in this report.
 ## `Resources`
 The analysis was created using next resources:
   - Data Source:  [Resources](./Resources/)
