@@ -60,15 +60,15 @@ Thomas High School’s performance was improved and it puts them for the top 5 s
 
  - Scores by school spending was changed slightly for Thomas High School’s bin $630-644.
 
-![image](https://user-images.githubusercontent.com/68247343/127000339-f2294b30-df2e-4041-a898-7812df5ff6c2.png)
+![image](https://user-images.githubusercontent.com/68247343/127004060-33ecaf82-f1f7-4266-bfa2-af62ab56cb58.png)
 
  - Scores by school size was changed slightly for the medium size as Thomas High School is.
 
-![image](https://user-images.githubusercontent.com/68247343/127001127-95d21ae6-91c5-4a2a-a29d-15cba7d20968.png)
+![image](https://user-images.githubusercontent.com/68247343/127003781-2f9cb8e2-57d8-4a2c-943c-98058907cc36.png)
 
 - Scores by homas High School’s Chapter school type was changed also slightly.
 
-![image](https://user-images.githubusercontent.com/68247343/127001792-c70177a8-aac0-45fa-8c96-16593b6fde63.png)
+![image](https://user-images.githubusercontent.com/68247343/127003866-dfe9c608-d3f7-432c-94e9-3247cb003610.png)
 
 	
 ## `School District Analysis Summary`	
