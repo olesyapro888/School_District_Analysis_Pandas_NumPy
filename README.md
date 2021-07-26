@@ -7,7 +7,7 @@
   - [How is the district summary affected](#How-is-the-district-summary-affected)	
   - [How is the school summary affected](#How-is-the-school-summary-affected)	
   - [Thomas High School’s performance relative to the other schools](#performance-relative-to-the-other-schools)
-  - [How does replacing the ninth-grade scores affect](#How-does-replacing-the-ninth-grade-scores-affect)		 
+  - [How is replacing the ninth-grade scores affected](#How-does-replacing-the-ninth-grade-scores-affect)		 
 - [School District Analysis Summary](#School-District-Analysis-Summary)	
 	
 ## `Overview of the school district analysis`	
@@ -43,30 +43,33 @@ The school summary has increased for Thomas High School with key metrics signifi
   - % Passing Math more then 26%, 
   - % Passing Reading more then 27%, 
   - % Overall Passing 25%.
-
-Screen 2
+  - 
+![image](https://user-images.githubusercontent.com/68247343/126929760-97c2c2d1-a995-4d61-afe8-93548d29ea06.png)
 
   ### ` - Thomas High School’s performance relative to the other schools`	
 
 Thomas High School’s performance was improved and it puts them for the top 5 schools.
 
- Screen 3	
+![image](https://user-images.githubusercontent.com/68247343/126929806-02e4869e-5203-4bb9-8333-13a1441f0cc0.png)
+ 
   ### `- How does replacing the ninth-grade scores affect`	
 
-  - There is no data "Math and reading scores by grade" for Thomas High School’s because it was replaced to NaNs.
+ - There is no data "Math and reading scores by grade" for Thomas High School’s because it was replaced to NaNs.
 
-  Screen 4
-  - Scores by school spending	was changed lightly.
+![image](https://user-images.githubusercontent.com/68247343/126929963-c31a7449-4800-47de-b2b2-1b2c114ab1ae.png)
 
-  Screen 5
+ - Scores by school spending was changed lightly.
 
-  - Scores by school size	is the same.
+![image](https://user-images.githubusercontent.com/68247343/126930052-b9ed687a-ee65-44b7-b7d8-adc7d4a876bb.png)
 
-  Screen 6
+ - Scores by school size was changed lightly for the medium size as Thomas High School is.
 
-  - Scores by school type	
+![image](https://user-images.githubusercontent.com/68247343/126930168-55b17b6e-ff98-44b2-8fee-7931af9e953f.png)
 
-  Screen 7
+- Scores by school type	
+
+![image](https://user-images.githubusercontent.com/68247343/126930311-51bdf601-bec9-4945-8781-12a4b5675fef.png)
+
 	
 ## `School District Analysis Summary`	
 	
