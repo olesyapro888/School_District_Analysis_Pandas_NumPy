@@ -43,7 +43,7 @@ The school summary has increased for Thomas High School with key metrics signifi
   - % Passing Math more then 26%, 
   - % Passing Reading more then 27%, 
   - % Overall Passing 25%.
-  - 
+  
 ![image](https://user-images.githubusercontent.com/68247343/126929760-97c2c2d1-a995-4d61-afe8-93548d29ea06.png)
 
   ### ` - Thomas High School’s performance relative to the other schools`	
@@ -58,15 +58,15 @@ Thomas High School’s performance was improved and it puts them for the top 5 s
 
 ![image](https://user-images.githubusercontent.com/68247343/126929963-c31a7449-4800-47de-b2b2-1b2c114ab1ae.png)
 
- - Scores by school spending was changed lightly.
+ - Scores by school spending was changed slightly.
 
 ![image](https://user-images.githubusercontent.com/68247343/126930052-b9ed687a-ee65-44b7-b7d8-adc7d4a876bb.png)
 
- - Scores by school size was changed lightly for the medium size as Thomas High School is.
+ - Scores by school size was changed slightly for the medium size as Thomas High School is.
 
 ![image](https://user-images.githubusercontent.com/68247343/126930168-55b17b6e-ff98-44b2-8fee-7931af9e953f.png)
 
-- Scores by school type	
+- Scores by school type	was changed slightly
 
 ![image](https://user-images.githubusercontent.com/68247343/126930311-51bdf601-bec9-4945-8781-12a4b5675fef.png)
 
