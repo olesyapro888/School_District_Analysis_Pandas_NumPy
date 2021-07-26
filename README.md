@@ -58,17 +58,17 @@ Thomas High School’s performance was improved and it puts them for the top 5 s
 
 ![image](https://user-images.githubusercontent.com/68247343/126929963-c31a7449-4800-47de-b2b2-1b2c114ab1ae.png)
 
- - Scores by school spending was changed slightly.
+ - Scores by school spending was changed slightly for Thomas High School’s bin $630-644.
 
-![image](https://user-images.githubusercontent.com/68247343/126930052-b9ed687a-ee65-44b7-b7d8-adc7d4a876bb.png)
+![image](https://user-images.githubusercontent.com/68247343/127000339-f2294b30-df2e-4041-a898-7812df5ff6c2.png)
 
  - Scores by school size was changed slightly for the medium size as Thomas High School is.
 
-![image](https://user-images.githubusercontent.com/68247343/126930168-55b17b6e-ff98-44b2-8fee-7931af9e953f.png)
+![image](https://user-images.githubusercontent.com/68247343/127001127-95d21ae6-91c5-4a2a-a29d-15cba7d20968.png)
 
-- Scores by school type	was changed slightly
+- Scores by homas High School’s Chapter school type was changed also slightly.
 
-![image](https://user-images.githubusercontent.com/68247343/126930311-51bdf601-bec9-4945-8781-12a4b5675fef.png)
+![image](https://user-images.githubusercontent.com/68247343/127001792-c70177a8-aac0-45fa-8c96-16593b6fde63.png)
 
 	
 ## `School District Analysis Summary`	
@@ -76,5 +76,5 @@ Thomas High School’s performance was improved and it puts them for the top 5 s
 Four changes to the school district analysis after reading and math scores have been replaced:
   - The district summary was affected by changing data of Thomas High School slightly.
   - The school summary has increased for Thomas High School with key metrics significantly.
-  - Thomas High School’s performance was improved and it puts them for the top 5 schools.
-  - There is no data "Math and reading scores by grade" for Thomas High School’s because it was replaced to NaNs.
+  - Thomas High School’s performance was improved and it put them for the top 5 schools.
+  - There is no data "Math and reading scores by grade" for Thomas High School’s because it was replaced to NaNs. But, scores by school spending, scores by school size, and scores by school type were changed slightly.
