@@ -26,28 +26,31 @@ The purpose for the analysis of 15 school districts was to delivery:
 The analysis was created using next resources:
   - Data Source:  [Resources](./Resources/)
   - Software: Python 3.8.8, Anaconda 4.10.3., Jupyter-notebook : 6.3.0.
-## `Results`
+## `School District Analysis Result`
 
 Full results can be found in the [City Schools Analysis](./PyCitySchools_Challenge.ipynb) file.
-### `How is the district summary affected`
+### ` - How is the district summary affected`
 
-? s were:
-  - m;
-  - DGe
+district_summary was affected:
+![image](https://user-images.githubusercontent.com/68247343/126917260-9d6f821e-b6db-438f-b69c-9b2adb75fb48.png)
 
-### `How is the school summary affected`
+district_summary was affected:
+  
+### ` - How is the school summary affected`
 
 How is the school summary affected?
-  - r;
+
+;
   - n;
   - e.
 
-### `Thomas High School’s performance relative to the other schools`
+### ` - Thomas High School’s performance relative to the other schools`
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
-### `How does replacing the ninth-grade scores affect`
+### `- How does replacing the ninth-grade scores affect`
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
+
 Scores by school spending
 Scores by school size
 Scores by school type
