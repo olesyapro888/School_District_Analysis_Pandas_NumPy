@@ -1,5 +1,5 @@
-# School District Analysis	
-## `-Indice-`	
+# School District Analysis. Project 4 of the University of Toronto.
+## `-Contents-`	
 	
 - [Overview of the Project](#overview-of-the-school-district-analysis)	
 - [Resources](#resources)	
@@ -12,7 +12,7 @@
 	
 ## `Overview of the school district analysis`	
 	
-The purpose for the analysis of 15 school districts was to delivery: 	
+The purpose for the analysis of 15 school districts is to delivery: 	
 1. An overview of the district's key metrics	
 2. An overview of the key metrics for each school	
 3. Tables presenting each of the following metrics:	
