@@ -1,4 +1,4 @@
-# School District Analysis. Project 4 of the University of Toronto.
+# Technical School District Analysis to find some academic dishonesty with Python and Pandas using Jupyter Notebook
 ## `-Contents-`	
 	
 - [Overview of the Project](#overview-of-the-school-district-analysis)	
@@ -23,7 +23,7 @@ The purpose for the analysis of 15 school districts is to delivery:
     - School performance based on the school size 	
     - School performance based on the type of school.	
 	
- Additionally, because of some not accurate data from Thomas High School's 9th grade the analysis was repeated again with changed data NaNs for 9th graders at Thomas High School. So, the impact of changed data is explained in this report.	
+Additionally, because of some not accurate data from Thomas High School's 9th grade the analysis was repeated again with changed data NaNs for 9th graders at Thomas High School. So, the impact of changed data is explained in this report.	
 ## `Resources`	
 The analysis was created using next resources:	
   - Data Source:  [Resources](./Resources/)	
